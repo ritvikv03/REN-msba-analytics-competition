@@ -69,7 +69,7 @@ shap
 
 ## Usage
 
-1. Ensure the hospital dataset is available: `hospital - hospital.csv`
+1. Ensure the hospital dataset is available: `hospital - hospital.csv`[https://github.com/codymbaldwin/sample-files/blob/master/hospital_ratings.csv]
 2. Open `REN_Analytics_Comp.ipynb` in Jupyter Notebook or Google Colab
 3. Run cells sequentially to reproduce the analysis
 4. Generated visualizations include:
